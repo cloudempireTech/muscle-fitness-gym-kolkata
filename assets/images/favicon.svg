@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="favVolt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#76FF03" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0A0D12" stroke="url(#favVolt)" stroke-width="2.5"/>
+  <!-- Dumbbell Icon -->
+  <rect x="18" y="29" width="28" height="6" rx="2" fill="url(#favVolt)" />
+  <rect x="12" y="22" width="7" height="20" rx="2" fill="#FFFFFF" />
+  <rect x="45" y="22" width="7" height="20" rx="2" fill="#FFFFFF" />
+</svg>
